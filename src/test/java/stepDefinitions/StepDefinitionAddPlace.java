@@ -28,11 +28,8 @@ public class StepDefinitionAddPlace extends Utils {
 	 public void add_Place_Payload(String name, String language, String address) throws IOException {
 	
 		 
-		 System.out.println("This is for Git/GitHub Practice");
-		 System.out.println("Code from LIGHT SIDE");
-		 System.out.println("Git practice from first guy");
-		 System.out.println("Git practice from first guy");
-		 System.out.println("after a break from light side");
+		 System.out.println("clenead");
+	
 		 
 		  resssSpec = given()
 //		.log().all()                              ---->>> taken care of Request Spec Builder
