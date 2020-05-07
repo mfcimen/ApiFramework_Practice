@@ -31,7 +31,8 @@ public class StepDefinitionAddPlace extends Utils {
 		 System.out.println("clenead");
 		 System.out.println("Changes in dark side-"
 		 		+ "  development branch"
-		 		+ "NEW commit");
+		 		+ "NEW "
+		 		+ "dark _ commit");
 		
 		  resssSpec = given()
 //		.log().all()                              ---->>> taken care of Request Spec Builder
