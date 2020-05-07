@@ -32,6 +32,7 @@ public class StepDefinitionAddPlace extends Utils {
 		 System.out.println("Code from LIGHT SIDE");
 		 System.out.println("Git practice from first guy");
 		 System.out.println("Git practice from first guy");
+		 System.out.println("after a break from light side");
 		 
 		  resssSpec = given()
 //		.log().all()                              ---->>> taken care of Request Spec Builder
