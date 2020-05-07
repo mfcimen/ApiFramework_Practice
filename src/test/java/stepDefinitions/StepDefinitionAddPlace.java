@@ -29,13 +29,10 @@ public class StepDefinitionAddPlace extends Utils {
 	
 		 
 		 System.out.println("clenead");
-		 System.out.println("Changes in dark side-  development branch");
-		 System.out.println("Changes in dark side-  development branch");
-		 System.out.println("Changes in dark side-  development branch");
-		 System.out.println("Changes in dark side-  development branch");
-		 System.out.println("Changes in dark side-  development branch");
-		 System.out.println("Changes in dark side-  development branch");
-		 
+		 System.out.println("Changes in dark side-"
+		 		+ "  development branch"
+		 		+ "NEW commit");
+		
 		  resssSpec = given()
 //		.log().all()                              ---->>> taken care of Request Spec Builder
 //		.queryParam("key", "qaclick123")
