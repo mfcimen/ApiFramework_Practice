@@ -31,9 +31,6 @@ public class StepDefinitionAddPlace extends Utils {
 		 System.out.println("This is for Git/GitHub Practice");
 		 System.out.println("Git practice from first guy");
 		 System.out.println("Git practice from first guy");
-		 System.out.println("Git practice from first guy");
-		 System.out.println("Git practice from first guy");
-		 System.out.println("Git practice from first guy");
 		 
 		  resssSpec = given()
 //		.log().all()                              ---->>> taken care of Request Spec Builder
