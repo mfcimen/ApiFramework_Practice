@@ -27,6 +27,9 @@ public class StepDefinitionAddPlace extends Utils {
 	 @Given("Add Place Payload {string} {string} {string}")
 	 public void add_Place_Payload(String name, String language, String address) throws IOException {
 	
+		 
+		 System.out.println("This is for Git/GitHub Practice");
+		 
 		  resssSpec = given()
 //		.log().all()                              ---->>> taken care of Request Spec Builder
 //		.queryParam("key", "qaclick123")
